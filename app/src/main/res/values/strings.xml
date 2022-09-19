@@ -6,4 +6,5 @@
     <string name="transfer_details">Transfer Details</string>
     <string name="payment_request">Payment Request</string>
     <string name="_10_00">€10.00</string>
+    <string name="confirm">Confirm</string>
 </resources>
